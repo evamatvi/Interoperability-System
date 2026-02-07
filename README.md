@@ -36,25 +36,25 @@ The system follows a complete interoperability workflow:
 
 ├── channels/ 
 
-│   ├── Deploy_unix.js
+│     ├── Deploy_unix.js
 
-│   ├── Undeploy_unix.js
+│     ├── Undeploy_unix.js
 
-│   ├── Deploy_windows.js
+│     ├── Deploy_windows.js
 
-│   └── Undeploy_windows.js
+│     └── Undeploy_windows.js
 │
 ├── scripts/  
 
-│   ├── worklist.py
+│     ├── worklist.py
 
-│   ├── dicomitzador.py
+│     ├── dicomitzador.py
 
-│   ├── storage.py
+│     ├── storage.py
 
-│   ├── runner.sh
+│     ├── runner.sh
 
-│   └── stopper.sh
+│     └── stopper.sh
 │
 └── README.md
 
