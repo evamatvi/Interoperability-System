@@ -34,17 +34,26 @@ The system follows a complete interoperability workflow:
 ## Project Structure
 
 
-├── channels/                  # Mirth Connect channel scripts
+├── channels/ 
+
 │   ├── Deploy_unix.js
+
 │   ├── Undeploy_unix.js
+
 │   ├── Deploy_windows.js
+
 │   └── Undeploy_windows.js
 │
-├── scripts/                   # Python and shell scripts
+├── scripts/  
+
 │   ├── worklist.py
+
 │   ├── dicomitzador.py
+
 │   ├── storage.py
+
 │   ├── runner.sh
+
 │   └── stopper.sh
 │
 └── README.md
