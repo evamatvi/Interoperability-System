@@ -29,32 +29,6 @@ The system follows a complete interoperability workflow:
 - **pydicom**
 - **JavaScript (Mirth channel scripts)**
 
----
-
-## Project Structure
 
 
-├── channels/ 
-
-│     ├── Deploy_unix.js
-
-│     ├── Undeploy_unix.js
-
-│     ├── Deploy_windows.js
-
-│     └── Undeploy_windows.js
-│
-├── scripts/  
-
-│     ├── worklist.py
-
-│     ├── dicomitzador.py
-
-│     ├── storage.py
-
-│     ├── runner.sh
-
-│     └── stopper.sh
-│
-└── README.md
 
